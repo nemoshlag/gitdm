@@ -1196,7 +1196,7 @@ Independent:
 	MrHohn: MrHohn!users.noreply.github.com, zihongz!google.com until 2016-07-01
 	MrJoy: MrJoy!users.noreply.github.com from 2015-11-01 until 2016-01-01, from 2016-08-01 until 2016-10-01, from 2019-12-01 until 2020-04-01
 	MrMage: MrMage!users.noreply.github.com, daniel.alm!forumd.net from 2016-01-01
-	MrMinimal: MrMinimal!users.noreply.github.com
+	MrMinimal: MrMial!users.noreply.github.com
 	MrPointer: MrPointer!users.noreply.github.com, timor.gruber!gmail.com
 	MrSaints: ian!fyianlai.com, mrsaints!users.noreply.github.com until 2015-11-01
 	MrZak-dev: zakaria.guenna!gmail.com until 2017-07-01, from 2017-08-01 until 2019-07-01
@@ -1226,6 +1226,8 @@ Independent:
 	Navin-Sankar: Navin-Sankar!users.noreply.github.com, navin!linumiz.com until 2016-12-01, from 2017-03-01 until 2017-07-01, from 2018-04-01 until 2018-07-01
 	Ndidi: Ndidi!users.noreply.github.com from 2017-09-01 until 2018-06-01
 	Nek: Nek!users.noreply.github.com, ludwik!gmail.com, ma2ciek!gmail.com from 2015-05-01 until 2015-09-01, from 2016-02-01 until 2016-05-01, from 2017-12-01 until 2018-02-01, from 2018-11-01 until 2019-01-01
+	Nemos: nemos!cisco.com, nimrod!epsagon.com
+	Cisco
 	Nerja: Nerja!users.noreply.github.com until 2019-01-01
 	Nerzal: theel.tobias!gmx.de from 2018-06-01 until 2018-09-01
 	Nessex: Nessex!users.noreply.github.com, nathan!essex.id.au until 2016-11-01, from 2018-11-01 until 2019-02-01
